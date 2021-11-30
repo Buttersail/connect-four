@@ -1,4 +1,4 @@
-# connect-four
+# Connect-Four
 
 - Place a piece in the board
   - Piece "falls" to the most available bottom on the board

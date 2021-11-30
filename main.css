@@ -19,3 +19,13 @@
 .cell:hover {
   background-color: rgb(75, 204, 255);
 }
+
+.player-one {
+  background-color: red;
+  border-radius: 50%;
+}
+
+.player-two {
+  background-color: blue;
+  border-radius: 50%;
+}
